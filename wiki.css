@@ -1,0 +1,54 @@
+body{
+    background-color: maroon;
+}
+
+.bod{
+    margin: 5% 10%;
+    border-color: white;
+    border-style: solid;
+    background-color: rgb(90,0,0);
+    color: white;
+    font-family: Georgia, serif;
+}
+
+.icon{
+    border-color: white;
+    border-style: solid;
+
+    flex: 35%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    height: 100%;
+}
+
+.content{
+    flex: 55%;
+    margin-left: 5%;
+    font-size: 120%;
+}
+
+.content img{
+    width: 100%;
+}
+
+.top{
+    display: flex;
+}
+
+.icon img{
+    width: 100%;
+}
+
+.icon p{
+    margin-left: 5%;
+}
+
+h1{
+    font-size: 500%;
+    margin-left: 5%;
+}
+
+a{
+    color:firebrick;
+}
